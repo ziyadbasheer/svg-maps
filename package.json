@@ -1,6 +1,7 @@
 {
   "name": "svg-maps",
   "description": "A set of SVG maps",
+  "version": "0.0.1"
   "devDependencies": {
     "lerna": "^3.13.2",
     "svgson": "^3.1.0"
