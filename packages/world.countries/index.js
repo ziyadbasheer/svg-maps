@@ -1,0 +1,1 @@
+export default {"label":"Dotted World Map","viewBox":"0 0 1299 829","locations":[]}
