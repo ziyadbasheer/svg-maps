@@ -1,0 +1,19 @@
+{
+  "name": "@svg-maps/world",
+  "version": "1.1.0",
+  "description": "Dotted World Map",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ziyadbasheer/svg-maps/tree/master/packages/taiwan"
+  },
+  "keywords": [
+    "svg",
+    "map",
+    "world"
+  ],
+  "author": "Ziyad Basheer <ziyadbasheer213@gmail.com>",
+  "publishConfig": {
+    "access": "public"
+  }
+}
