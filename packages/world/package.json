@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ziyadbasheer/svg-maps/tree/master/packages/taiwan"
+    "url": "https://github.com/ziyadbasheer/svg-maps/tree/master/packages/world"
   },
   "keywords": [
     "svg",
